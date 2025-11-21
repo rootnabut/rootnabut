@@ -14,7 +14,7 @@
 - 🚀 Làm việc với công nghệ hiện đại, ưu tiên hiệu suất – bảo mật – tối ưu.
 
 <p align="center">
-  <img src="[https://i.imgur.com/T5E7HnY.png](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)" width="260" />
+  <img src="(https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)" width="260" />
 </p>
 
 ---
