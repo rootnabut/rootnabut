@@ -1,61 +1,69 @@
-<h1 align="center">🔥 NABUT – Cyber Terminal Profile 🔥</h1>
-<p align="center">Premium Hacker-Style GitHub Profile • Terminal • Animation • Matrix Effects</p>
+<!-- TITLE -->
+<h1 align="center">
+  <span style="color:#00FF00;">Welcome to Nabut's Profile</span>
+</h1>
+
+<h2 align="center">⚡ Hi 👋, I'm Nabut</h2>
+
+<p align="center">
+  <b>💻 Developer • 🔐 Security Enthusiast • ⚙️ Full Stack</b>
+</p>
+
+---
+
+## 🔥 About Me
+
+- 🔗 **Portfolio:** http://nabut.net  
+- 📩 **Liên hệ nhanh:** [Telegram – NaBut](https://t.me/rootnabout)  
+- 🚀 Luôn làm việc với công nghệ hiện đại, ưu tiên tốc độ – bảo mật – hiệu suất.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="280">
+</p>
 
 ---
 
 ## 🧠 Hacker Terminal Animation – MAX Hacker Mode
 
-| \ | | / \ | __ )| | | | \ | |
-| | | / _ \ | _ | | | | | |
-| |\ |/ ___ | |) | || | |\ |
-|| _// __/ _/|| _|
-
-[BOOT] Nabut Kernel v3.2.1 [ OK ] Secure Boot Verified
-[ OK ] Encrypted Home Loaded
-[ OK ] Injecting Cybersecurity Layer
-[ OK ] Linking Neural Engine
-[ OK ] Loading Overclocked Skill Modules
-
-root@nabut:~$ ./deploy --init --force
-Compiling hacker-profile.c ...
-Uploading payload to GitHub ...
-Status: DEPLOYED SUCCESSFULLY ✓
+███╗   ██╗ █████╗ ██████╗ ██╗   ██╗████████╗
+████╗  ██║██╔══██╗██╔══██╗██║   ██║╚══██╔══╝
+██╔██╗ ██║███████║██████╔╝██║   ██║   ██║   
+██║╚██╗██║██╔══██║██╔══██╗██║   ██║   ██║   
+██║ ╚████║██║  ██║██║  ██║╚██████╔╝   ██║   
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   
 
 
 ---
 
 ## 💚 Matrix Effect
+
 <p align="center">
-  <img src="https://media.giphy.com/media/Q8a9U5cPij2YU/giphy.gif" width="600">
+  <img src="https://raw.githubusercontent.com/istreetlab/matrix-rain/main/matrix-green.svg" width="90%"/>
 </p>
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technical Skills
 
-### 🚀 Programming Languages  
-- JavaScript • TypeScript • Python • C • C++ • PHP  
-- HTML • CSS • NodeJS • Express  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,kotlin,c,cs,cpp,bootstrap,tailwind,react,nodejs,express,nextjs,mysql,mongodb,redis,postgres,linux,git,cloudflare,docker,nginx,aws,ps,ai,pr&perline=12" />
+</p>
 
-### 💾 Databases  
-- MySQL • MongoDB • Firebase  
-
-### 🧰 Tools  
-- Git • GitHub • VS Code • Figma • Postman  
 
 ---
 
-## 📡 Contact
-📧 Email: **root@nabut.net**  
-💬 Zalo: **079xxx**  
-🌐 Website: **https://nabut.net**
+## 📬 Contact
+
+- ✉️ Gmail: **rootnabout@gmail.com**  
+- 🌐 Website: **https://nabut.net**  
+- 🚀 Telegram: **https://t.me/rootnabout**
 
 ---
 
-## ⚡ System Status
-```bash
-root@nabut:~$ systemctl status github-profile
-● github-profile.service - NABUT Profile Engine
-   Loaded: active
-   Mode: Ultra Hacker Mode
-   Logs: No errors detected ✓
+<p align="center">
+  <b>🔰 Powered by NaBut – Security • Performance • Innovation</b>
+</p>
+
+
+
+
