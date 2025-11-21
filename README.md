@@ -13,9 +13,8 @@
 
 ## 🔥 About Me
 
-- 🔗 **Portfolio:** http://nabut.net  
-- 📩 **Liên hệ nhanh:** [Telegram – NaBut](https://t.me/rootnabout)  
-- 🚀 Luôn làm việc với công nghệ hiện đại, ưu tiên tốc độ – bảo mật – hiệu suất.
+- 🔗 **Webiste:** http://nabut.net  
+- 📩 **Contact:** [Telegram – NaBut](https://t.me/rootnabout)  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="280">
