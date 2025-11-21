@@ -1,87 +1,61 @@
-<!-- TITLE -->
-<h1 align="center">
-  <span style="color:#00FF00;">Welcome to Nabut's Profile</span>
-</h1>
-
-<h2 align="center">⚡ Hi 👋, I'm Nabut</h2>
-
-<p align="center">
-  <b>💻 Developer • 🔐 Security Enthusiast • ⚙️ Full Stack</b>
-</p>
-
----
-
-## 🔥 About Me
-
-- 🔗 **Portfolio:** http://nabut.net  
-- 📩 **Liên hệ nhanh:** [Telegram – NaBut](https://t.me/rootnabout)  
-- 🚀 Luôn làm việc với công nghệ hiện đại, ưu tiên tốc độ – bảo mật – hiệu suất.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="280">
-</p>
+<h1 align="center">🔥 NABUT – Cyber Terminal Profile 🔥</h1>
+<p align="center">Premium Hacker-Style GitHub Profile • Terminal • Animation • Matrix Effects</p>
 
 ---
 
 ## 🧠 Hacker Terminal Animation – MAX Hacker Mode
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1&pause=1&color=20FF00&center=true&vCenter=true&width=500&height=60&lines=Initializing+Nabut+OS...;Loading+secure+modules...;Decrypting+skillset...;System+Online+✓" />
-</p>
+| \ | | / \ | __ )| | | | \ | |
+| | | / _ \ | _ | | | | | |
+| |\ |/ ___ | |) | || | |\ |
+|| _// __/ _/|| _|
 
-██████╗ █████╗ ██████╗ ██╗ ██╗████████╗ ██████╗ ███████╗
-██╔══██╗██╔══██╗██╔══██╗██║ ██║╚══██╔══╝ ██╔══██╗██╔════╝
-██████╔╝███████║██████╔╝██║ ██║ ██║ ██████╔╝█████╗
-██╔══██╗██╔══██║██╔══██╗██║ ██║ ██║ ██╔══██╗██╔══╝
-██║ ██║██║ ██║██║ ██║╚██████╔╝ ██║ ██║ ██║███████╗
-╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝ ╚═╝╚══════╝
-[BOOT] Nabut Kernel v3.2.1
-[ OK ] Secure Boot Verified
+[BOOT] Nabut Kernel v3.2.1 [ OK ] Secure Boot Verified
 [ OK ] Encrypted Home Loaded
 [ OK ] Injecting Cybersecurity Layer
 [ OK ] Linking Neural Engine
 [ OK ] Loading Overclocked Skill Modules
 
-root@nabout:~$ ./deploy --init --force
+root@nabut:~$ ./deploy --init --force
 Compiling hacker-profile.c ...
 Uploading payload to GitHub ...
 Status: DEPLOYED SUCCESSFULLY ✓
 
+
 ---
 
 ## 💚 Matrix Effect
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/istreetlab/matrix-rain/main/matrix-green.svg" width="90%"/>
+  <img src="https://media.giphy.com/media/Q8a9U5cPij2YU/giphy.gif" width="600">
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,kotlin,c,cs,cpp,bootstrap,tailwind,react,nodejs,express,nextjs,mysql,mongodb,redis,postgres,linux,git,cloudflare,docker,nginx,aws,ps,ai,pr&perline=12" />
-</p>
+### 🚀 Programming Languages  
+- JavaScript • TypeScript • Python • C • C++ • PHP  
+- HTML • CSS • NodeJS • Express  
 
----
+### 💾 Databases  
+- MySQL • MongoDB • Firebase  
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootnabout&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootnabout&layout=compact&theme=tokyonight" height="160" />
-</p>
+### 🧰 Tools  
+- Git • GitHub • VS Code • Figma • Postman  
 
 ---
 
-## 📬 Contact
-
-- ✉️ Gmail: **rootnabout@gmail.com**  
-- 🌐 Website: **https://nabut.net**  
-- 🚀 Telegram: **https://t.me/rootnabout**
+## 📡 Contact
+📧 Email: **root@nabut.net**  
+💬 Zalo: **079xxx**  
+🌐 Website: **https://nabut.net**
 
 ---
 
-<p align="center">
-  <b>🔰 Powered by NaBut – Security • Performance • Innovation</b>
-</p>
+## ⚡ System Status
+```bash
+root@nabut:~$ systemctl status github-profile
+● github-profile.service - NABUT Profile Engine
+   Loaded: active
+   Mode: Ultra Hacker Mode
+   Logs: No errors detected ✓
