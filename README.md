@@ -23,40 +23,11 @@
 
 ---
 
-## 🧠 Hacker Terminal Animation – MAX Hacker Mode
-
-███╗   ██╗ █████╗ ██████╗ ██╗   ██╗████████╗
-████╗  ██║██╔══██╗██╔══██╗██║   ██║╚══██╔══╝
-██╔██╗ ██║███████║██████╔╝██║   ██║   ██║   
-██║╚██╗██║██╔══██║██╔══██╗██║   ██║   ██║   
-██║ ╚████║██║  ██║██║  ██║╚██████╔╝   ██║   
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝
-
-
----
-
-## 💚 Matrix Effect
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/istreetlab/matrix-rain/main/matrix-green.svg" width="90%"/>
-</p>
-
----
-
 ## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,kotlin,c,cs,cpp,bootstrap,tailwind,react,nodejs,express,nextjs,mysql,mongodb,redis,postgres,linux,git,cloudflare,docker,nginx,aws,ps,ai,pr&perline=12" />
 </p>
-
-
----
-
-## 📬 Contact
-
-- ✉️ Gmail: **rootnabout@gmail.com**  
-- 🌐 Website: **https://nabut.net**  
-- 🚀 Telegram: **https://t.me/rootnabout**
 
 ---
 
